@@ -1,0 +1,20 @@
+{
+  "title": "Python: If/Elif/Else Syntax",
+  "slug": "python-conditionals-if-elif-else",
+  "description": "Python conditional block structure, indentation rules, execution order, and optional elif and else clauses.",
+  "authors": [
+    "chris-cooling"
+  ],
+  "tags": [
+    "python"
+  ],
+  "duration": 5,
+  "prerequisites": [
+    "programming-if-else-blocks",
+    "python-boolean-operators",
+    "python-comments"
+  ],
+  "related": [
+    "exercise-python-fizzbuzz"
+  ]
+}
