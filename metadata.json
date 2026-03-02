@@ -15,6 +15,7 @@
     "python-comments"
   ],
   "related": [
-    "exercise-python-fizzbuzz"
+    "exercise-python-fizzbuzz",
+    "python-loop-control"
   ]
 }
